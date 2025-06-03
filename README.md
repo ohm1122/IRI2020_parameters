@@ -83,9 +83,7 @@ ylabel('Frequency (MHz)');
 legend('foF2', 'foF1', 'foE', 'Location', 'best');
 grid on;
 ```
-![Markdown Logo](https://github.com/ohm1122/IRI2020_parameters/blob/main/Ionosphere_Plot_20240701T0000.png "Markdown Logo")
-
-![Markdown Logo](https://github.com/ohm1122/IRI2020_parameters/blob/main/Ionosphere_Plot_20240510T0000.png "Markdown Logo")
+![critical frequencies subplot](https://github.com/ohm1122/IRI2020_parameters/blob/main/Ionosphere_Plot_20240510T0000.png "critical frequencies subplot")
 ## 4. Applications and Results
 
 ### 4.1 Typical Output Results
